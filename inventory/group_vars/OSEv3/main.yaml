@@ -13,7 +13,7 @@ ocp_identity_providers:
         email:
           - 'mail'
         id:
-          - 'mailNickname'
+          - 'dn'
         name:
           - 'cn'
         preferredUsername:
