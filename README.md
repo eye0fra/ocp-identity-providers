@@ -8,6 +8,6 @@ This repository contains all necessary playbooks to install Identity Providers i
 
 2. Launch **identity-providers.yaml**
    
-       ```
-           ansible-playbook playbooks/identity-providers.yaml
-       ```
+   ```
+     ansible-playbook playbooks/identity-providers.yaml
+   ```
