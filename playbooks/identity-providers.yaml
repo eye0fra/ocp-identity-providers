@@ -2,6 +2,7 @@
   tags:
    - idp
 
+  tasks:
   - block:
     - name: Set identityProviders to master config
       modify_yaml:
