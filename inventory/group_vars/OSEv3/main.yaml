@@ -23,7 +23,7 @@ ocp_identity_providers:
       ca: '/etc/pki/tls/certs/ca-bundle.crt'
       insecure: false
       kind: 'LDAPPasswordIdentityProvider'
-      url: 'ldaps://<url>/<query>?sAMAccountName?sub?(objectClass=user)'
+      url: 'ldaps://<url>/baseDN?sAMAccountName?sub?(objectClass=user)'
   - name: 'Local'
     challenge: true
     login: true
