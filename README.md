@@ -1,4 +1,4 @@
-# OpenShift Identity Providers
+# OpenShift Master Identity Providers
 
 
 This repository contains all necessary playbooks to install Identity Providers in OpenShift Container Platform as post installation step.
