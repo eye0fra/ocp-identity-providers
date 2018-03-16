@@ -1,8 +1,8 @@
 ############################################################################
-#### OpenShift Identity Provider
+#### OpenShift Master Identity Providers
 ############################################################################
 
-ocp_identity_providers:
+openshift_master_identity_providers:
   - name: 'LDAPPasswordIdentityProvider'
     challenge: true
     login: true
